@@ -1,0 +1,31 @@
+*{
+	font-size: 18px;
+}
+body{
+	background-color: #7d979b;
+	background-size: 1920px 1080px;
+}
+
+header li {
+  float: left;
+}
+header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;  
+  overflow: hidden;
+}
+
+header li a:hover {
+  background-color: #111;
+}
+
+#li_img_header{
+	float: right;
+}
+#img_header {
+	height: 50px;
+}
